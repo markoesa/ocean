@@ -18,4 +18,4 @@ Jalankan Script
 ls
 cd ocean
 ls
-python3 script.py
+python3 bot.py
